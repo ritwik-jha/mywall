@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938996914556",
+    "project_id": "mywall-e6396",
+    "storage_bucket": "mywall-e6396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938996914556:android:ce598105bc32a71c2b2cf9",
+        "android_client_info": {
+          "package_name": "com.example.mywall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938996914556-rffunlp1riq5rqko9u8qp6r4uorjr438.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5k60-T8c9ccpHhYBnFH7xKqkqTpBl1MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938996914556-rffunlp1riq5rqko9u8qp6r4uorjr438.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
